@@ -18,7 +18,9 @@ The weather system demonstrates two distinct skill patterns within a single orch
 This showcases the **Command → Agent → Skill** architecture pattern, where:
 - A command orchestrates the workflow and handles user interaction
 - An agent fetches data using its preloaded skill
-- A skill creates the visual output independently
+- A skill creates the visual output independently 
+
+## Important details or Headings to be started from here!
 
 ## Component Summary
 
